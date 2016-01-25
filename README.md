@@ -1,1 +1,1 @@
-# DynMap
+# DynMap is a dynamic map
